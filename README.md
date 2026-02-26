@@ -104,7 +104,8 @@ Este proyecto demuestra habilidades en:
 
 ## 👨‍💻 Autor
 
-Sebastián
+Sebastián Medina Waltero
+Ficha 3144615
 
 ---
 
