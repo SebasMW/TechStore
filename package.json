@@ -1,0 +1,17 @@
+{
+  "name": "carrito-compras",
+  "version": "1.0.0",
+  "description": "Simulación de carrito de compras con pruebas unitarias",
+  "main": "js/app.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["carrito", "compras", "javascript", "unit-test"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
