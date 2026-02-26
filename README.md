@@ -107,4 +107,8 @@ Este proyecto demuestra habilidades en:
 Sebastián Medina Waltero
 Ficha 3144615
 
+---
 
+## 📄 Licencia
+
+MIT
